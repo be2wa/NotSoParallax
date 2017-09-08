@@ -1,2 +1,2 @@
 # NotSoParallax
-Not So Parallax
+https://be2wa.github.io/NotSoParallax/
